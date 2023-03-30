@@ -1,4 +1,4 @@
-file library
+files
 newTemporaryFileReference
 	"Create a new temporary file in the systems temp directory
 	and answer a reference to it.

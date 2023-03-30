@@ -1,14 +1,11 @@
 {
-	"category" : "Grease-GemStone-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SystemBeginTransaction",
-	"pools" : [
-		 ],
 	"super" : "SystemTransactionNotification",
-	"type" : "normal" }
+	"category" : "Grease-GemStone-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SystemBeginTransaction",
+	"type" : "normal"
+}

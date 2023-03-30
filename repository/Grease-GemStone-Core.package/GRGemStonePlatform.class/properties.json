@@ -1,14 +1,13 @@
 {
-	"category" : "Grease-GemStone-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"TransactionMutex" ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "GRGemStonePlatform",
-	"pools" : [
-		 ],
 	"super" : "GRPlatform",
-	"type" : "normal" }
+	"category" : "Grease-GemStone-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TransactionMutex"
+	],
+	"instvars" : [ ],
+	"name" : "GRGemStonePlatform",
+	"type" : "normal"
+}

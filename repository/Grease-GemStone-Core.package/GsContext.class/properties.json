@@ -1,19 +1,18 @@
 {
-	"category" : "Grease-GemStone-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Grease-GemStone-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"continuation",
 		"level",
 		"method",
 		"source",
 		"mySelf",
-		"receiver" ],
+		"receiver"
+	],
 	"name" : "GsContext",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
