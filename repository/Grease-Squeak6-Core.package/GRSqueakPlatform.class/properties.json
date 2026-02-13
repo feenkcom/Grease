@@ -3,8 +3,9 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
-	"commentStamp" : "",
+		"UrlTable",
+		"XmlTable" ],
+	"commentStamp" : "pmm 7/15/2024 15:10",
 	"instvars" : [
 		 ],
 	"name" : "GRSqueakPlatform",

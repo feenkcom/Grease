@@ -1,5 +1,6 @@
 baselines
 baselineCommon: spec
+
 	spec
 		for: #common
 		do: [ spec blessing: #baseline.
@@ -13,4 +14,5 @@ baselineCommon: spec
 				group: 'Slime' with: #('Core');
 				group: 'Slime Tests' with: #('Core Tests');
 				group: 'Tests' with: #('Core Tests' 'Slime Tests');
-				group: 'default' with: #('Slime') ]
+				group: 'default' with: #('Slime');
+				group: 'Development' with: #('default') ]

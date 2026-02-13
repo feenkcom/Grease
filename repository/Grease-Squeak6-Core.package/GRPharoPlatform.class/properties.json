@@ -3,9 +3,8 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"UrlTable",
-		"XmlTable" ],
-	"commentStamp" : "pmm 2/1/2014 13:28",
+		 ],
+	"commentStamp" : "pmm 7/15/2024 15:09",
 	"instvars" : [
 		 ],
 	"name" : "GRPharoPlatform",

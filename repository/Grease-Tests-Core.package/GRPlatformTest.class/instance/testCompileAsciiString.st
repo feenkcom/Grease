@@ -1,8 +1,8 @@
-tests-file library
+tests-mop
 testCompileAsciiString
 	| selector expected source |
 	
-	self supportsUnicode ifFalse: [
+	GRPlatform current supportsUnicode ifFalse: [
 		^ self ].
 	
 	selector := #stringMethod.
