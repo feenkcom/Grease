@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfGreaseForGToolkit!
+self packageOrganizer ensurePackage: #BaselineOfGreaseForGToolkit withTags: #()!
