@@ -1,3 +1,3 @@
 tests
 testFullName
-	self assert: Object fullName = 'Object'
+	self assert: Object fullName = #Object
